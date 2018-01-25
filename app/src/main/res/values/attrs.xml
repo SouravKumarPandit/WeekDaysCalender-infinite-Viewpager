@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CalenderView">
+        <!--头部星期字体颜色-->
+        <attr name="headerTextColorCV" format="color" />
+        <!--头部星期字体大小-->
+        <attr name="headerTextSizeCV" format="float" />
+        <!--日期字体颜色-->
+        <attr name="dateTextColorCV" format="color" />
+        <!--日期字体大小-->
+        <attr name="dateTextSizeCV" format="float" />
+        <!--选中日期背景颜色-->
+        <attr name="selectBackColorCV" format="color" />
+        <!--选中日期字体颜色-->
+        <attr name="selectTextColorCV" format="color" />
+        <!--选中日期字体大小-->
+        <attr name="selectTextSizeCV" format="float" />
+    </declare-styleable>
+
+</resources>
